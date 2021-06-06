@@ -1,0 +1,17 @@
+.btn {
+  font-size: 16px;
+  font-weight: 800;
+  padding: 21px 41px;
+  text-transform: uppercase;
+  border-radius: 100px;
+  line-height: 1;
+  text-decoration: none;
+}
+.btn--theme--yellow {
+  background: #FEDB3F;
+  color: #000000;
+}
+.btn--theme--yellow:hover {
+  background: #FEDB3F;
+  color: #000000;
+}
